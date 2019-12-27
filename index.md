@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo ao site do jogo Mr. Ratômico
+
+Para jogar, acesse o link https://ratomico.github.com/ratomico.swf
 
 You can use the [editor on GitHub](https://github.com/ratomico/ratomico.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
